@@ -14,13 +14,15 @@ Java developers are fully supported on Azure and Azure Stack. Microsoft managed 
 
 For the following services, the default JDK is managed by Microsoft:
 
+### Managed Java Runtime
+
 * Azure App Service on Windows
 * Azure App Service on Linux
 * Azure Functions
 * Azure Spring Cloud
-* Azure Service Fabric
-* Azure HDInsight
-* Azure Cognitive Search
+
+### Default JDK
+
 * Azure Cloud Shell
 * Azure DevOps
 
