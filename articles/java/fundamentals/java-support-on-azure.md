@@ -18,9 +18,6 @@ For the following services, the default JDK is managed by Microsoft:
 * Azure App Service on Linux
 * Azure Functions
 * Azure Spring Cloud
-* Azure Service Fabric
-* Azure HDInsight
-* Azure Cognitive Search
 * Azure Cloud Shell
 * Azure DevOps
 
